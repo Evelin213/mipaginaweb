@@ -1,0 +1,287 @@
+# mipaginaweb
+la pagina de eve
+<HTML>
+<HEAD>
+      <TITLE>PAGINA WEB</TITLE>
+</HEAD>
+
+<BODY BACKGROUND="img\arena.jpg">
+
+<ALIGN="left">
+<img src="http://www.veracruz.gob.mx/wp-content/uploads/2019/05/logo-veracruz-1.png"ALT="Logotipo de veracruz">
+<ALIGN="right">
+
+<img src="img\malecon.jpg"ALT="Malecon"WIDTH="180"HEIDHT="200">
+<ALIGN="center">
+<img src="img\Barco2.jpeg"ALT="Barco"WIDTH="180"HEIDHT="200">
+<ALING="center">
+<img src="img\Playa.jpeg"ALT="Playa"WIDTH="153"HEIDHT="200">
+<ALIGN="center">
+<img src="img\iglesia2.jpeg"ALT="Iglesia"WIDTH="150"HEIDHT="100">
+<ALIGN="right">
+<img src="img\ver.png"ALT="Veracruz"WIDTH="200"HEIDHT="300">
+
+
+<FONT SIZE="200"FACE="Elephant"COLOR="Brown">
+<CENTER><H1>VERACRUZ</H1></CENTER>
+</FONT>
+
+<FONT SIZE="6"FACE="Arial Black"COLOR="red">
+
+<P ALIGN="center">Buscas un lugar para vacacionar con tu familia o amigos</BR> te presento el magnífico estado de Veracruz.</MARK></BR>
+
+</BR>
+<IMG SRC="img/lol.jpg"ALT="Imagen del mar"WIDTH="600"HEIGTH="600"></CENTER></BR>
+
+
+</BR>
+<FONT SIZE="5"FACE="Franklin Gothic Demi"COLOR="black">
+Se localiza en la costa del Atlantico, en el Golfo de Mexico. Al norte colinda con el estado de Tamaulipas,<BR/> 
+al sur con los estados de Oaxaca y Chiapas, al poniente con San Luís Potosí, Hidalgo y Puebla y al sureste<BR/> 
+con el estado de Tabasco.Veracruz cuenta con una superficie de 71.699 km cuadrados y alrededor de 7,3<BR/> 
+millones de habitantes por lo cual es uno de los estados más poblados de la República Mexicana. La capital<BR/>
+del estado de Veracruz no es el Puerto de Veracruz como muchos lo suponen,la capital es Xalapa una ciudad<BR/> 
+localizada en el centro de losaltos de ‏veracruz, muy reconocida por su riqueza cultural.<BR/>
+</P>
+<CENTER><a href="https://goo.gl/maps/o4Xveiit6D9wra4K6">Vercruz</a></CENTER>
+
+<CENTER><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3844146.2615395663!2d-98.3895863002849!3d19.795516151343616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c355d0af54526d%3A0x2d777f0a6710b9b3!2sVeracruz!5e0!3m2!1ses-419!2smx!4v1650762073301!5m2!1ses-419!2smx" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></CENTER>
+
+
+<HR ALING="center"SIZE="10"WIDTH="80%"COLOR="Yellow"NOSHADE>
+
+<FONT SIZE="6"FACE="Goudy Stout"COLOR="Orange">
+<CENTER>¡LUGARES QUE DEBES <BR/>VISITAR!</CENTER>
+
+<FONT SIZE="10"FACE="orange juice"COLOR="Horizon Blue">
+<P ALIGN="center">1. San Juan de Ulúa.<BR/>
+
+
+<ALIGN="center">
+<img src="img\San Juan.jpeg"ALT="San Juan de Ulua"WIDTH="400"HEIDHT="600"><BR/>
+
+<FONT SIZE="6"FACE="Bodoni MT Condensed"COLOR="Black">
+<A HREF="https://www.youtube.com/watch?v=Olqglp87pPs">San Juan de Ulúa</A> es como un libro abierto, aquí cada rincón te va a contar una historia o una leyenda.<BR/>
+Así que ve tranquilo, tómate tu tiempo y de verdad que te sorprenderás de todo lo que te tienen que<BR/>
+contar esas enormes y húmedas paredes construidas de coral. No entres a San Juan de Ulúa sin un guía.<BR/>
+Son muy accesibles y la experiencia vale la pena.<BR/>
+
+<FONT SIZE="7"FACE="Bodoni MT Condensed"COLOR="Green">
+<LI ALIGN="center">Conoce su ubicación <A HREF="https://goo.gl/maps/P4PqipPZKdJEUKmA7">San Juan De Ulúa</A></LI>
+
+<FONT SIZE="10"FACE="orange juice"COLOR="Horizon Blue">
+<P ALIGN="center">2. Museo Naval de Veracruz<BR/>
+
+
+<ALIGN="center">
+<img src="img\Museo.jpg"ALT="Museo Naval"WIDTH="700"HEIDHT="900"><BR/>
+
+ 
+<FONT SIZE="6"FACE="Bodoni MT Condensed"COLOR="Black">
+<P ALIGN="center">
+Este museo esta a cargo de la <A HREF="http://www.semar.gob.mx/museonavalmexico/index.htm">Secretaría de Marina</A> en donde podrás disfrutar de un recorrido interactivo<BR/> 
+de la historia naval de México. Tiene más de 20 salas, si viajas con niños, seguro que les encantará, ya <BR/>
+que también cuenta con un simulador de navegación, la cabina de un helicóptero así como salas donde podrán<BR/>
+interactuar con la exposición. Se encuentra en la calle de Arista 418 en pleno centro de Veracruz.<BR/>
+
+<FONT SIZE="7"FACE="Eras Bold ITC"COLOR="Green">
+<LI ALIGN="center">Conoce su ubicación <A HREF="https://goo.gl/maps/35qk3w6q5ULTRsca8">Museo Naval</A></LI> 
+
+<FONT SIZE="10"FACE="orange juice"COLOR="Horizon Blue">
+<P ALIGN="center">3. Acuario de Veracruz <BR/>
+
+<IMG SRC="img\Acuario.jpeg"ALT="Acuario de Veracruz"WIDTH="300"HEIGTH="300"ALING="center">
+<IMG SRC="img\Tortuga.jpeg"ALT="Acuario de Veracruz"WIDTH="365"HEIGTH="300"ALING="center">
+<IMG SRC="img\Pez.jpeg"ALT="Acuario de Veracruz"WIDTH="260"HEIGTH="300"ALING="center">
+
+
+<FONT SIZE="6"FACE="Bodoni MT Condensed"COLOR="Black">
+<P ALIGN="center">
+Se encuentra en el interior de Plaza Acuario, en el centro de Veracruz. Tiene varias salas con más de 250<BR/> 
+variedades de especies y casi 4 mil ejemplares viven en 7 millones de litros de agua. También cuenta con <BR/>
+programas de reproducción e investigación. Simplemente es impresionante, ¡No te lo puedes perder!.<BR/>
+
+<FONT SIZE="6"FACE="Eras Bold ITC"COLOR="Green">
+<LI ALIGN="center"> Conoce y Obten más <BR/> información del <A HREF="https://acuariodeveracruz.com/">ACUARIO</A></LI>
+
+<FONT SIZE="10"FACE="orange juice"COLOR="Horizon Blue">
+<P ALIGN="center">4. Malecón de Veracruz <BR/>
+
+<IMG SRC="img\malecon2.jpeg"ALT="Malecon"WIDTH="400"HEIGTH="600"ALING="center">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1650907339996!6m8!1m7!1szMCZRRWRXctU0-FVu1Fy2A!2m2!1d19.20243897838819!2d-96.13357760020206!3f50.848613595083464!4f0.8305582067339827!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+<FONT SIZE="6"FACE="Bodoni MT Condensed"COLOR="Black">
+<P ALIGN="center">
+Veracruz tiene nostalgia, y eso se siente al caminar por su encantador Malecón. De día es un lugar lleno de vida,<BR/> 
+se puede ver gente disfrutando de las playas, turistas y algunos puestos de artesanías. De noche los enamorados <BR/>
+se acurrucan para dejarse acariciar por la brisa del mar, hay familias, amigos y hasta pescadores intentando llevar
+algo extra a casa.<BR/>
+Si tu día estuvo ajetreado, o simplemente quieres relajarte, disfruta de una caminata nocturna por el Malecón de Veracruz.<BR/>
+
+<FONT SIZE="6"FACE="Eras Bold ITC"COLOR="Green">
+Conoce su Ubicación <A HREF="https://goo.gl/maps/fFo3A5ukQLUMb48H8">MALECON</A>
+
+<FONT SIZE="10"FACE="orange juice"COLOR="Horizon Blue">
+<P ALIGN="center">5. Zócalo de Veracruz<BR/>
+
+<IMG SRC="img\Zocalo.jpg"ALT="Malecon"WIDTH="500"HEIGTH="600"ALING="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yMoSK9Uf6jQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<FONT SIZE="6"FACE="Bodoni MT Condensed"COLOR="Black">
+<P ALIGN="center">
+El Zócalo de Veracruz está lleno de sorpresas. Podrás encontrar suvenires y artesanías a precios muy accesibles.<BR/> 
+Pero te recomiendo iniciar justo en la plaza que comparten la Catedral y el Palacio Municipal, pues es el punto <BR/>
+de reunión de los danzoneros. Además a un costado están los famosos Portales de Veracruz con exquisitas cafeterías <BR/>
+y restaurantes. ¡El ambiente es muy bohemio y tradicional…<BR/>
+
+<FONT SIZE="6"FACE="Eras Bold ITC"COLOR="Green">
+<LI ALIGN="center">Conoce su Ubicación <A HREF="https://goo.gl/maps/c5GzfAhCHunmQqf56">Zócalo de Veracruz</A></LI>
+
+<FONT SIZE="10"FACE="orange juice"COLOR="Horizon Blue">
+<P ALIGN="center">6. Boca del Río<BR/>
+
+
+<IMG SRC="img\Inn Boca del Rio.jpg"ALT="Malecon"WIDTH="500"HEIGTH="600"ALING="center">
+
+<FONT SIZE="6"FACE="Bodoni MT Condensed"COLOR="Black">
+<P ALIGN="center">
+Boca del Río se encuentra a solo 5 minutos al sur del Puerto de Veracruz y prácticamente son zonas conurbadas<BR/> 
+pues comparten el Malecón. Boca del Río fue literalmente remodelado a partir de la celebración de los Juegos <BR/>Centroamericanos y del Caribe en el 2014. A diferencia del Puerto, aquí vas a encontrar hoteles, antros, restaurantes<BR/> y plazas de famosas cadenas comerciales. Si estás en busca de fiesta, vida nocturna o quieres irte de shopping,<BR/> te recomiendo darte una vuelta por Boca del Río.<BR/>
+
+
+<FONT SIZE="6"FACE="Eras Bold ITC"COLOR="Green"><LI ALIGN="center">Conoce su Ubicación
+<A HREF="https://goo.gl/maps/CFx8usWJoAdWDAuWA">Boca del Río</A></LI> 
+
+
+<FONT SIZE="10"FACE="orange juice"COLOR="Horizon Blue">
+<P ALIGN="center">7.Restaurate La Parroquia <BR/>
+
+<IMG SRC="img\Café.jpeg"ALT="Parroquia"WIDTH="400"HEIGTH="600"ALING="center">
+
+
+<FONT SIZE="6"FACE="Bodoni MT Condensed"COLOR="Black">
+<P ALIGN="center">
+El Gran Café de <A HREF="https://goo.gl/maps/iR867xavqEyTqhhv7">la Parroquia</A> es un restaurante y cafetería ícono del puerto de Veracruz. Es famoso por sus <BR/>tradiciones, ambiente familiar y por su café lechero. Se encuentra ubicado en el Paseo del Malecón y Valentín Gómez <BR/>Farías No. 34, en el Centro Histórico de la ciudad.<BR/> 
+
+Degusta desde la comodidad de tu hogar<A HREF="https://l.instagram.com/?u=https%3A%2F%2Flaparroquiadeveracruz.com%2Ftienda%2F&e=ATN2GysLZpAinD6FwFr6dbXJFCo3BdzU8-tFQqsuWFk-mdnKE9Csa9kuXtpvv38-LNw8ua3XbdfReblaKJ88ug&s=1">
+<FONT SIZE="5"FACE="Eras Bold ITC"COLOR="Brown"><BR/><LI ALIGN="center">LA PARROQUIA TIENDA ONLINE</A></LI>
+
+<FONT SIZE="10"FACE="Bodoni MT Condensed"COLOR="Red">
+<P ALIGN="center"><strong>Algunos de los hoteles en los que te puedes hospedar  son:</strong><BR/>
+
+
+<TABLE BORDER="2"BORDERCOLOR="yellow"WIDTH="85%">
+<THEAD BGCOLOR="salmon">
+<TR>
+<TH>HOTELES</TH>
+<TH>PRECIOS</TH>
+<TH>DESCRIPCIÓN</TH>
+<TH>UBICACIÓN</TH>
+</TR>
+</THEAD>
+
+
+<TBODY ALIGN="center" BGCOLOR="Wheat">
+<TR>
+<TD>Hotel Mar y Tierra</TD>
+<TD>Precios a partir de <BR/>MXN 576.27 por noche</TD>
+<TD>Este hotel está situado a 5 km del centro<BR/> 
+de Veracruz y 10 km de Boca del Río.<BR/> 
+El Hotel Mar y Tierra tiene una piscina<BR/> 
+en la azoteay habitaciones con conexión 
+Wi-Fi gratuita.</TD>
+<TD><A HREF="https://goo.gl/maps/ehubz2QNyP2njcXP6">
+<IMG SRC="img\Mar y Tierra.jpg"ALT="HOTEL MAY Y TIERRA Y SU UBICACIÓN"WIDTH="200"HEIGTH="100"ALING="center"></A>
+</TD>
+</TR>
+
+<TBODY ALIGN="center" BGCOLOR="Wheat">
+<TR>
+<TD>Camino Real de Veracruz</TD>
+<TD>Precios a partir de <BR/> MXN 1,199 por noche</TD>
+<TD>Este moderno hotel, situado frente a la costa en <BR/> 
+Veracruz, ofrece habitaciones con aire acondicionado y <BR/>
+magníficas vistas al mar. Dispone de un centro de fitness <BR/>
+y una gran piscina al aire libre.</TD>
+<TD><A HREF="https://g.page/CAMINO-REAL-VERACRUZ?share"><IMG SRC="img\Camino Real.jpg"ALT="HOTEL CAMINO REAL Y SU UBICACIÓN"WIDTH="200"HEIGTH"100"ALING"CENTER"><A/>
+</TD>
+</TR>
+</THEAD>
+
+<TBODY ALIGN="center" BGCOLOR="Wheat">
+<TR>
+<TD>Rivoli Select Hotel</TD>
+<TD>Precios a partir de <BR/>MXN 990por noche</TD>
+<TD>El Rívoli Select Hotel, con vistas al golfo de <BR/> 
+México, cuenta con una piscina al aire libre y está <BR/>
+a solo 350 metros del malecón de la ciudad.<BR/></TD>
+<TD><A HREF="https://goo.gl/maps/bwyRouuXfqDpo2Gt9"><IMG SRC="img\Rivoli Select.jpg"WIDTH="200"HEIGTH"100"ALING"CENTER"></A>
+</TD>
+</TR>
+</THEAD>
+
+<TBODY ALIGN="center" BGCOLOR="Wheat">
+<TR>
+<TD>City Express</TD>	
+<TD>Precios a partir de <BR/> MXN 974.95 por noche</TD>
+<TD>Este moderno establecimiento dispone de una ubicación <BR/> 
+ideal en primera línea de mar en Veracruz. Ofrece un <BR/>
+desayuno continental gratuito y un servicio de traslado <BR/>
+gratuito en un radio de 10 km.</TD>
+<TD><A HREF="https://goo.gl/maps/T4khn8k1pJjXMeez8"><IMG SRC="img\City Express.jpg"WIDTH="200"HEIGTH"100"ALING"CENTER"</A>
+</TD>
+</TR>
+</THEAD>
+
+<TBODY ALIGN="center" BGCOLOR="Wheat">
+<TR>
+<TD>Hilton Garden Inn Veracruz Boca del Rio</TD>
+<TD>Precios a partir de <BR/>MXN 1,350 por noche</TD>
+<TD>El Hilton Garden Inn Veracruz Boca del Rio está situado<BR/> 
+frente a la playa en Boca del Río, Veracruz, y ofrece una <BR/>
+piscina para niños, conexión a internet y una tienda de regalos.</TD>
+<TD><A HREF="https://goo.gl/maps/UGcC5UKUAqZuWXPX7"><IMG SRC="img\Hilton.jpg"WIDTH="200"HEIGTH"100"ALING"CENTER"></A></TD>
+</TR>
+</THEAD>
+
+<TBODY ALIGN="center" BGCOLOR="Wheat">
+<TR>
+<TD>Galeria Plaza Veracruz By Brisas</TD>
+<TD>Precios a partir de <BR/>MXN 1,296 por noche</TD>
+<TD>El moderno Galeria Plaza Veracruz by Brisas ofrece <BR/>
+piscina cubierta y se encuentra en el centro de Boca de <BR/>
+Río, a solo 8 minutos a pie de la playa.</TD>
+<TD><A HREF="https://goo.gl/maps/FWdixwj7JFvEmohw5"><IMG SRC="img\Brisas.jpg"WIDTH="200"HEIGTH"100"ALING"CENTER"></A></TD>
+</TR>
+</THEAD>
+
+<TBODY ALIGN="center" BGCOLOR="Wheat">
+<TR>
+<TD>Hotel Indigo Veracruz Boca del RiO</TD>
+<TD>Precios a partir de <BR/>MXN 1,064 por noche</TD>
+<TD>Este hotel está situado a 300 metros de la playa <BR/> 
+del golfo de México y a 10 minutos a pie del parque <BR/>
+acuático de Mocambo. Ofrece conexión Wi-Fi gratuita,<BR/> 
+una piscina al aire libre y un gimnasio.</TD>
+<TD><A HREF="https://goo.gl/maps/vtRAWSbEt696Fb2E8"><IMG SRC="img\Hotel Indico.jpg"WIDTH="200"HEIGTH"100"ALING"CENTER"</A></TD>
+</TR>
+</THEAD>
+
+
+</TBODY>
+</TABLE>
+
+<FONT SIZE="10"FACE="Bodoni MT Condensed"COLOR="Black">
+<P ALIGN="center"><MARK>Estos son algunos hoteles con referencias pero si quieres <BR/>
+consultar algún otro hotel cerca de algún lugar en especial puedes ingresar <BR/>al siguiente link </MARK><BR/>
+
+
+<A HREF="https://www.trivago.com.mx/es-MX/lm/hoteles-veracruz-llave-m%C3%A9xico?search=200-32297;dr-20220501-20220502"><IMG SRC="img\TRIVAGO.png"WIDTH="200"HEIGTH"100"ALING"CENTER"</A></BR>
+
+
+<P ALIGN="left"><A HREF="mailto:evelinplata4553@gmail.com">Contactame</A>
+
+
+</BODY>
+</HTML>
